@@ -3,7 +3,7 @@
 Installation
 
 - Instal live server
-> npm install live-server
+> `npm install live-server`
 - Run project
-> live-server public
+> `live-server public`
 
